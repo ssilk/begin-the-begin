@@ -4,3 +4,6 @@
 [submodule "os-x-terminal-app-solarized"]
 	path = os-x-terminal-app-solarized
 	url = https://github.com/ssilk/os-x-terminal-app-solarized.git
+[submodule "dotfiles"]
+	path = dotfiles
+	url = https://github.com/ssilk/dotfiles.git

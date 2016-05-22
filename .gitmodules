@@ -1,3 +1,6 @@
 [submodule "XVim"]
 	path = XVim
 	url = https://github.com/ssilk/XVim.git
+[submodule "os-x-terminal-app-solarized"]
+	path = os-x-terminal-app-solarized
+	url = https://github.com/ssilk/os-x-terminal-app-solarized.git

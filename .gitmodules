@@ -7,3 +7,6 @@
 [submodule "dotfiles"]
 	path = dotfiles
 	url = https://github.com/ssilk/dotfiles.git
+[submodule "vim-colors-solarized"]
+	path = vim-colors-solarized
+	url = https://github.com/ssilk/vim-colors-solarized.git
